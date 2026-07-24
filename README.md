@@ -1,6 +1,8 @@
 # Date :
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
-
+## DATE : 24/07/2026
+## NAME : NABISHA A
+## REG NO : 2122223060177
 
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
@@ -52,9 +54,10 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-•	Router CLI configuration<br>
-•	IP configurations on PCs<br>
-•	Successful ping between PC0 and PC1<br>
+<img width="363" height="386" alt="image" src="https://github.com/user-attachments/assets/28516840-5d5c-4a62-b03f-54a2b0552d93" />
+<img width="893" height="397" alt="image" src="https://github.com/user-attachments/assets/f66ae9de-f5ed-41dc-bfa1-5e89cca268e8" />
+<img width="1030" height="731" alt="image" src="https://github.com/user-attachments/assets/5480942b-9ee2-4d2e-8f95-f191a89a67d1" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
